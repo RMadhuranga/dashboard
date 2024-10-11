@@ -22,7 +22,8 @@ Welcome to the **Dynamic Dashboard Frontend**! This is a sleek, responsive, and 
 
 ## 🎯 Demo
 
-![Dashboard UI](./path-to-your-screenshot.png)
+![image](https://github.com/user-attachments/assets/651e27d2-c9de-4389-a94f-18226e53aaf3)
+
 
 Check out the live preview of the dashboard interface, showcasing the dynamic analytics, user stats, and easy-to-navigate layout.
 
